@@ -4,7 +4,7 @@ public class Problem2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        // Taking student data as input
+        
         System.out.print("Enter student name: ");
         String studentName = scanner.nextLine();
 
@@ -31,5 +31,6 @@ public class Problem2 {
         scanner.close();
     }
 }
+
 
 
